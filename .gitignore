@@ -47,3 +47,5 @@ coverage/
 # Testes temporários
 test-api.cjs
 brute.cjs
+
+.vercel
